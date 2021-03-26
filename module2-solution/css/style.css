@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	background-color: #FFFFF0;
 }
 
 h1 {
@@ -24,20 +25,21 @@ h2 {
 p {
 	color: black;
 	font-size: 120%;
+	background-color: #A9A9A9;
 }
 #chicken{
-	background-color: #F08080;
+	background-color: #FFFF00;
 	color: black;
 }
 
 #beef{
 	background-color: #CD5C5C;
-	color: white;
+	color: black;
 }
 
 #sushi{
-	background-color: #F0E68C;
-	color: black;
+	background-color: #FF4500;
+	color: white;
 }
 
 .div2 {
