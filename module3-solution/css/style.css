@@ -1,0 +1,46 @@
+#header-nav {
+	background-color: black;
+	height: 90px;
+	border-color: black;
+	border: 0;
+	margin: 0;
+	border-radius: 0;
+	border-bottom: 1px solid black;	
+}
+
+.navbar-brand h1 {
+	color: white;
+}
+
+#nav-list {
+	margin-top: 0;
+}
+
+li {
+	background-color: #808080;
+	margin: 0;
+}
+
+#li-1, #li-2, #li-3{
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.navbar-header .icon-bar {
+	border: 2px solid black;
+}
+
+section {
+  margin: 10px;
+  border: 2px solid black;
+  height: auto;
+  background-color: #FA8072;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#nav-list a{
+  color: black;
+}
+
